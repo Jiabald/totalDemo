@@ -29,6 +29,9 @@
    5. ##### 下面是用postmon 测试接口截图 上传图片是字段名是 file
    成功运行截图
 ![image](https://github.com/baldAndStupid/totalDemo/blob/main/img/Snipaste_2021-04-11_15-39-44.png)
+##### -----------------------------------------
 ![image](https://github.com/baldAndStupid/totalDemo/blob/main/img/Snipaste_2021-04-11_15-11-30.png)
+##### -----------------------------------------
 ![image](https://github.com/baldAndStupid/totalDemo/blob/main/img/Snipaste_2021-04-11_15-11-54.png)
+##### -----------------------------------------
 ![image](https://github.com/baldAndStupid/totalDemo/blob/main/img/Snipaste_2021-04-11_15-12-10.png)
