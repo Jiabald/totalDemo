@@ -4,7 +4,7 @@
         1. 上传图片 post /upload
         2. 查询图片 get /queryImg
         3. 查询单张图片 get /queryImg?id=
-  2. #### 在imgUploadServer目录下配置下 .env文件 
+  2. #### 在imgUploadServer目录创建 .env 文件 
         1. 下面是例子 
         ```javascript
           port=8081  
@@ -26,7 +26,9 @@
         `img_url` varchar(500) DEFAULT NULL
     ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 ```
-   4. ##### 下面是用postmon 测试接口截图 上传图片是字段名是 file
-![image]()
-![image]()
-![image]()
+   4. ### 成功运行截图
+![image](https://github.com/baldAndStupid/totalDemo/blob/main/img/Snipaste_2021-04-11_15-39-44.png)
+   5. ##### 下面是用postmon 测试接口截图 上传图片是字段名是 file
+![image](https://github.com/baldAndStupid/totalDemo/blob/main/img/Snipaste_2021-04-11_15-11-30.png)
+![image](https://github.com/baldAndStupid/totalDemo/blob/main/img/Snipaste_2021-04-11_15-11-54.png)
+![image](https://github.com/baldAndStupid/totalDemo/blob/main/img/Snipaste_2021-04-11_15-12-10.png)
