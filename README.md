@@ -26,7 +26,7 @@
         `img_url` varchar(500) DEFAULT NULL
     ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 ```
-   4. ##### 下面是用postmon 测试接口截图 上传图片是字段名是 file
+   4. ##### 下面是用postmon 测试接口截图 postmon的value要选成file哦 上传图片是字段名是 file
    成功运行截图
 ![image](https://github.com/baldAndStupid/totalDemo/blob/main/img/Snipaste_2021-04-11_15-39-44.png)
 ##### -----------------------------------------
